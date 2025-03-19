@@ -15,3 +15,5 @@
  #WE NEED TO ADD DESCRIPTION OF OUR TASK ATLEAST 500 WORDS
 
 **OUTPUT**
+
+![Image](https://github.com/user-attachments/assets/5d70e05c-0321-4133-9be1-dc988591eb84)
